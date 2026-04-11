@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hello, I'm Jay Khandelwal<br><br>🤖 AI Aficionado — transforming data into meaningful impact<br><br>I’m a Data & AI practitioner focused on building scalable, intelligent, and production-ready systems.<br>I work across Machine Learning, Data Engineering, and Generative AI, turning raw data into actionable, deployable intelligence.<br><br>⚙️ What I Do<br><br>🧠 Design RAG (Retrieval-Augmented Generation) systems for context-aware AI<br>🔗 Build LLM applications using LangChain and other orchestration frameworks<br>📊 Develop and optimize Machine Learning & Deep Learning models<br>🗂️ Engineer data pipelines, embeddings, and vector search systems<br>
 
 
