@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jay Khandelwal
 
-🤖 **AI Aficionado** • Data & Generative AI Engineer
+ **AI Aficionado** • Data & Generative AI Engineer
 
 ---
 
