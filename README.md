@@ -8,13 +8,6 @@ I specialize in designing and building scalable, intelligent systems that transf
 
 ---
 
-### ⚙️ What I Do
-
-- 🧠 Design advanced **RAG (Retrieval-Augmented Generation)** systems  
-- 🔗 Build powerful **LLM applications** with LangChain and orchestration tools  
-- 📊 Develop & optimize **Machine Learning & Deep Learning** models  
-- 🗂️ Engineer robust **data pipelines**, embeddings & vector search infrastructure
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayk327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaykh7777@gmail.com) 
