@@ -5,6 +5,7 @@
 ---
 
 I specialize in designing and building scalable, intelligent systems that transform raw data into meaningful, real-world impact through Machine Learning, Data Engineering, and Generative AI. With prior experience in Agile environments, I thrive in collaborative, fast-paced teams. I am passionate about creating production-ready AI solutions that address real-world challenges and deliver measurable value.
+
 ![science ai](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
 
 
